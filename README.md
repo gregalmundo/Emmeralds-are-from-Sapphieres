@@ -11,3 +11,4 @@ if (someNumber == 13)
   // true
 else
   //false
+What is the Truth, we don´t know. Lets start talking about that
